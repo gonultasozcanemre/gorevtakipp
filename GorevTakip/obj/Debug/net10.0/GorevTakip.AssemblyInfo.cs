@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GorevTakip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a5a5b2ccb33f4658905e11b7875ec5c1485ac1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390628570577e4869a59f5caab1c6b3b2286e8d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GorevTakip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GorevTakip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
